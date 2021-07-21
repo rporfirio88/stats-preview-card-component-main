@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component
 
-pt-br <br>
+<strong>pt-br <br>  </strong>
 Nesse desafio pude aprender e utilizar os seguintes conceitos e ferramentas:
 Semântica no HTML.
 Conceitos e soluções sobre Flexbox.
@@ -8,7 +8,7 @@ Variaveis CSS.
 Adicionar fontes pelo google fonts.
 Conceito de media queries.
 
-en-us<br>
+<strong>en-us<br></strong>
 In this challenge i can learn and utilizing the following concepts and tools:
 Semantic HTML5.
 Concepts and solutions about flexbox
